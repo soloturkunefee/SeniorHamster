@@ -1,9 +1,1 @@
-- 👋 Hi, I’m Efe
-- 👀 I’m interested in Planes and games
-- 🌱 I’m currently learning C# and C++
-- 💞️ I’m looking to collaborate on my games
-- 📫 How to reach me ↓↓↓
-- Discord soloturkunefe
-- Instagram hamstir.jpeg
-- My pronouns page (No LGBT like things)
-- https://en.pronouns.page/@soloturkunefe
+
